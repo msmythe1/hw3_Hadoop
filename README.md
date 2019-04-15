@@ -1,2 +1,2 @@
 # hw3_Hadoop
-BZAN 545 HW3 
+Changed book rating join r.rating to >4 and tmp user age to >24
